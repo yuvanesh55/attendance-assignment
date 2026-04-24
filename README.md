@@ -1,6 +1,5 @@
-# attendance assignment
+# Attendance assignment
 
-## Execute the following programs and create a  document in github with question, code and output and then upload the pdf file generated from github and also give the github link in the submission
 
 ### 1. Write a C program to find the maximum of three numbers without using logical operators.
 
