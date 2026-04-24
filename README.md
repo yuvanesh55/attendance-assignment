@@ -1,4 +1,4 @@
-# C---assignment-for-attendance-on-24.04.2026
+# attendance assignment
 
 ## Execute the following programs and create a  document in github with question, code and output and then upload the pdf file generated from github and also give the github link in the submission
 
